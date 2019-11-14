@@ -4,7 +4,7 @@ This repository contains files related to the Springboard Data Science Career Tr
 
 The project comprises the development of a model that classifies histological slides into cancerous or normal.
 
-The project report can be viewed [here](https://github.com/leukemia/Capstone_Projects/tree/master/Capstone_Project02/Milestone_Report-01).
+The project report can be viewed [here](https://github.com/leukemia/Capstone_Projects/blob/master/Capstone_Project02/Milestone_Report-02/04_Capstone_Project-02_Milestone_Report-02.pdf).
 
 The data may be obtained from:
 
